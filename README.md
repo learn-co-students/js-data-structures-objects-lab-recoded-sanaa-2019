@@ -5,7 +5,7 @@
 We covered the concepts of `Object`s in JavaScript. Now it's time to put the
 concepts into practice.
 
-## Learning Goals
+## Learning Goals 
 
 - Create `Object`s
 - Perform operations on `Object`s
